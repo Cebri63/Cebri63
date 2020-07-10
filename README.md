@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<pre>💻 Fullstack JS developer
+<pre><h2>💻 Fullstack JS developer</h2>
 
 🏫 Teacher at  <img
   width="120"
