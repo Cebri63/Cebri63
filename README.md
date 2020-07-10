@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<pre><h2>💻 Fullstack JS developer</h2>
+<pre><h3>💻 Fullstack JS developer</h3>
 
-🏫 Teacher at  <img
+<h3>🏫 Teacher at  <img
   width="120"
   alt="Le Reacteur - Bootcamp Paris"
-  src="https://res.cloudinary.com/brice/image/upload/v1594389013/logo-le-reacteur-2.png">  bootcamp (Paris) 
+  src="https://res.cloudinary.com/brice/image/upload/v1594389013/logo-le-reacteur-2.png">  bootcamp (Paris)</h3>
   
 <a href="https://www.lereacteur.io/">lereacteur.io</a>
 </pre>
