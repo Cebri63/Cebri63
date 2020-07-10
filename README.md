@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <pre><h3>💻 Fullstack JS developer</h3>
-
 <h3>🏫 Teacher at  <img
   width="120"
   alt="Le Reacteur - Bootcamp Paris"
