@@ -6,9 +6,9 @@
   width="120"
   alt="Le Reacteur - Bootcamp Paris"
   src="https://www.lereacteur.io/logo-le-reacteur-2.png">  bootcamp (Paris) 
-  
-  [lereacteur.io](https://www.lereacteur.io/)
 </pre>
+
+  [lereacteur.io](https://www.lereacteur.io/)
 
 <img
  alt="MERN Stack"
