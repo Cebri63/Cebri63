@@ -8,7 +8,7 @@
   src="https://www.lereacteur.io/logo-le-reacteur-2.png">  bootcamp (Paris) 
 </pre>
 
-  [lereacteur.io](https://www.lereacteur.io/)
+  [lereacteur.io](https://www.lereacteur.io/){:target="_blank"}
 
 <img
  alt="MERN Stack"
