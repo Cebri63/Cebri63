@@ -11,7 +11,7 @@
 </pre>
 
 <img
-  alt="JavaScript"
+ alt="MERN Stack"
  src="https://res.cloudinary.com/brice/image/upload/v1594384710/mern.jpg">
  
 
