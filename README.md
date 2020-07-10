@@ -7,7 +7,7 @@
   alt="Le Reacteur - Bootcamp Paris"
   src="https://www.lereacteur.io/logo-le-reacteur-2.png">  bootcamp (Paris) 
   
-   <a href="https://www.lereacteur.io/">lereacteur.io</a>
+<a href="https://www.lereacteur.io/">lereacteur.io</a>
 </pre>
 
 <img
